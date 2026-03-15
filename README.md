@@ -1,19 +1,60 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Ayushi Gupta</h1>
+<h3 align="center">Aspiring Data Analyst | Web Developer | Tech Enthusiast</h3>
 
-# 👩‍💻 Ayushi Gupta
+---
+
+🌸 **About Me**
+
+- 🎓 Computer Science Student  
+- 📊 Learning **Data Analytics**
+- 💻 Skilled in **Python, SQL, C, Java (OOP), HTML, CSS, JavaScript**
+- 🚀 Currently building **Web Development Projects**
+- 📚 Improving my **coding logic & problem solving**
 
 
-[![Study Plan](https://img.shields.io/badge/%F0%9F%93%8A_Study_Plan-10B981?style=for-the-badge&logo=render&logoColor=white)](https://study-plan-hill-climbing.onrender.com)
-[![Portfolio](https://img.shields.io/badge/%F0%9F%92%BB_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushi-gupta1)
+---
 
-</div>
+💻 **Tech Stack**
 
-## 🌟 Projects
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,mysql,git,github,vscode"/>
+</p>
 
-| **Personalized Study Plan** | **DSA Solver** | **EdTech Tools** |
-|----------------------------|---------------|-----------------|
-| AI-powered optimizer using Hill Climbing algorithm | Data Structures & Algorithms | Academic optimization systems |
-| [🔴 Live Demo](https://study-plan-hill-climbing.onrender.com) | Coming soon | In progress |
-| 🐍 Flask + Python | 🔤 C + Python | Full-Stack |
+---
 
-## 🛠️ Tech Stack
+📊 **GitHub Stats**
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ayushi-gupta1&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushi-gupta1&theme=tokyonight"/>
+</p>
+
+---
+
+🚀 **Projects**
+
+🔹 Mentor–Mentee Web Application  
+🔹 News Aggregator Website  
+🔹 Portfolio Website  
+🔹 Data Analysis Projects  
+
+---
+
+🌐 **Connect With Me**
+
+<p>
+<a href="https://linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:your-email@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
+</p>
+
+---
+
+⭐ **Thanks for visiting my GitHub Profile!**
