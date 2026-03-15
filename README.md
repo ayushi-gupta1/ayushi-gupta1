@@ -1,6 +1,20 @@
 <h1 align="center">Hi, I'm Ayushi Gupta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <h3 align="center">Computer Science Student | Aspiring Data Analyst | Web Developer</h3>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&width=500&lines=Aspiring+Data+Analyst;Web+Developer;Tech+Enthusiast"/>
+</p>
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ayushi-gupta1&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushi-gupta1&layout=compact&theme=tokyonight"/>
+
+</p>
+
+
 
 <p align="center">
 <a href="https://github.com/ayushi-gupta1">
@@ -74,5 +88,9 @@ I love turning ideas into real applications and improving my development skills.
 ### Portfolio Website
 
 * Personal portfolio showcasing projects and skills
+  <p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+</p>
+
 
 ---
