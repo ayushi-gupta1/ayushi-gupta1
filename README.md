@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Ayushi Gupta 👋
 
-<!--
-**ayushi-gupta1/ayushi-gupta1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CS Student | Full-Stack Developer | AI Enthusiast**
 
-Here are some ideas to get you started:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushi-gupta1&show_icons=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+**Personalized Study Plan Generator**  
+AI-powered study optimizer using Hill Climbing algorithm  
+🔗 [Live Demo](https://study-plan-hill-climbing.onrender.com)  
+📂 [GitHub Repo](https://github.com/ayushi-gupta1/study-plan-hill-climbing)
+
+## 🛠️ Tech Stack
