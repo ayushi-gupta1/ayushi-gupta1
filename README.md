@@ -2,7 +2,7 @@
 
 # Hi, I'm Ayushi Gupta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
-**Computer Science Student | Aspiring Data Analyst | Web Developer**
+**Computer Science Student | Aspiring Data Analyst | Full-Stack Developer**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushi-gupta1&label=Profile%20views&color=0e75b6&style=flat" alt="ayushi-gupta1" /> </p>
 
